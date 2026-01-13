@@ -1,0 +1,27 @@
+{
+    "auto_key": {
+        "table_data": [],
+        "interval": "10",
+        "hotkey": "F10",
+        "mode": "开关模式",
+        "sound": true
+    },
+    "mouse_click": {
+        "table_data": [],
+        "select_hotkey": "F9",
+        "mouse_hotkey": "F11",
+        "mode": "开关模式",
+        "sound": true
+    },
+    "profit_calc": {
+        "sell_price": "0.00",
+        "quantity": "1",
+        "material_prices": {
+            "银针": "0.00",
+            "五味子": "0.00",
+            "川贝": "0.00",
+            "彼岸花": "0.00",
+            "药膏": "0.00"
+        }
+    }
+}

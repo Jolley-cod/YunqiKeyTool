@@ -1,0 +1,134 @@
+{
+    "auto_tab_config": {
+        "table_data": [
+            {
+                "checked": true,
+                "key": "G",
+                "mode": "开关",
+                "delay": "10"
+            },
+            {
+                "checked": false,
+                "key": "D",
+                "mode": "开关",
+                "delay": "10"
+            },
+            {
+                "checked": true,
+                "key": "A",
+                "mode": "开关",
+                "delay": "10"
+            },
+            {
+                "checked": true,
+                "key": "G",
+                "mode": "开关",
+                "delay": "10"
+            },
+            {
+                "checked": true,
+                "key": "K",
+                "mode": "开关",
+                "delay": "10"
+            }
+        ],
+        "interval": "10",
+        "hotkey": "F10",
+        "current_mode": "开关模式",
+        "sound_checked": true
+    },
+    "mouse_tab_config": {
+        "table_data": [
+            {
+                "checked": true,
+                "index": "1",
+                "x": "1655",
+                "y": "1577",
+                "delay": "1000"
+            },
+            {
+                "checked": true,
+                "index": "2",
+                "x": "767",
+                "y": "613",
+                "delay": "1000"
+            },
+            {
+                "checked": true,
+                "index": "3",
+                "x": "764",
+                "y": "473",
+                "delay": "1000"
+            },
+            {
+                "checked": true,
+                "index": "4",
+                "x": "1583",
+                "y": "1585",
+                "delay": "500"
+            }
+        ],
+        "select_hotkey": "F9",
+        "mouse_hotkey": "F11",
+        "current_mode": "单次模式",
+        "sound_checked": true
+    },
+    "auto_key": {
+        "table_data": [
+            {
+                "checked": true,
+                "key": "G",
+                "delay": "10"
+            },
+            {
+                "checked": false,
+                "key": "H",
+                "delay": "10"
+            },
+            {
+                "checked": true,
+                "key": "A",
+                "delay": "10"
+            },
+            {
+                "checked": true,
+                "key": "J",
+                "delay": "10"
+            },
+            {
+                "checked": true,
+                "key": "O",
+                "delay": "10"
+            }
+        ],
+        "interval": "10",
+        "hotkey": "F10",
+        "mode": "开关模式",
+        "sound": true
+    },
+    "mouse_click": {
+        "table_data": [],
+        "select_hotkey": "F9",
+        "mouse_hotkey": "F11",
+        "mode": "开关模式",
+        "sound": true
+    },
+    "profit_calc": {
+        "sell_price": "0.00",
+        "quantity": "1",
+        "material_prices": {
+            "银针": "0.00",
+            "五味子": "0.00",
+            "川贝": "0.00",
+            "彼岸花": "0.00",
+            "药膏": "0.00",
+            "珠贝母": "120",
+            "老姜": "0.00",
+            "卤料": "0.00",
+            "杂碎": "0.00",
+            "生粉": "0.00",
+            "精肉": "0.00",
+            "蛋": "0.00"
+        }
+    }
+}
